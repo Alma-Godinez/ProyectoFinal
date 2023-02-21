@@ -1,4 +1,4 @@
-# ProyectoFinal
+# Proyecto Final
 > # Cotizador Empresa de Seguros
 Una empresa de seguros solicitó la creación de un programa que realize las cotizaciones para clientes y/o aseguradores, debido a que la estimacón del seguro que los asesores brindan es de formal manual haciendo este proceso más tardado y menos eficiente.
 Al momento del la creación del programa tomamos aspectos dados por la empresa de seguros para ejecutar el programa, este mismo muestra recargos que la aseguradora aplica hacia posibles clientes.
